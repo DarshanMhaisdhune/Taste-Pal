@@ -1,0 +1,13 @@
+# Build and node
+/node_modules
+dist/
+
+
+# Parcel
+.parcel-cache
+
+
+# jest testing files and Coverage
+src/component/__test__/
+/coverage
+jest.config.js
